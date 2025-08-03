@@ -3,7 +3,7 @@
 An end-to-end image recognition pipeline using Scikit-learn’s neural network on the MNIST dataset.
 
 - **Preprocessing**  
-  • Load 5 000+ handwritten digits  
+  • Load 5000+ handwritten digits  
   • Normalize pixel values, reshape for model input, handle missing values  
 - **Model**  
   • Multi-layer perceptron (MLPClassifier)  
